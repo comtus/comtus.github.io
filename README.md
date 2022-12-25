@@ -44,3 +44,13 @@ This work is published under [MIT][mit] License.
 [use-template]: https://github.com/cotes2020/chirpy-starter/generate
 [CD]: https://en.wikipedia.org/wiki/Continuous_deployment
 [mit]: https://github.com/cotes2020/chirpy-starter/blob/master/LICENSE
+
+## To run it locally
+~~~bash
+bundle exec jekyll s
+~~~
+
+## Production bundle
+```bash
+JEKYLL_ENV=production bundle exec jekyll b
+```
