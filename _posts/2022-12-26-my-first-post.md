@@ -17,6 +17,8 @@ The history of large language models can be traced back to the development of ne
 
 The breakthrough came with the introduction of transformer architecture in the form of models like GPT (Generative Pre-trained Transformer) and BERT (Bidirectional Encoder Representations from Transformers). These models, particularly GPT-3, with its 175 billion parameters, demonstrated an extraordinary capacity to understand and generate text. They were pre-trained on vast amounts of text data from the internet and could be fine-tuned for various NLP tasks, from language translation to sentiment analysis, chatbots, and more. This pre-training and fine-tuning paradigm made large language models versatile and widely applicable.
 
+![LLM Size Chart](/assets/images/LLM_model_size.jpg)
+
 Large language models were already being integrated into various industries, including healthcare, finance, customer support, and content generation. They were also used for research in fields like climate science, drug discovery, and social sciences. However, ethical concerns about bias, misinformation, and the environmental impact of training such large models were hotly debated.
 
 Looking to the future, the capabilities of large language models are expected to continue expanding. This evolution will likely involve models with even larger parameter sizes, improved fine-tuning techniques, and enhanced understanding of context and user intent. Advancements in hardware, like specialized AI chips and more energy-efficient training methods, will also contribute to their development. Additionally, research into addressing bias, improving explainability, and ensuring the responsible deployment of these models will be essential.
