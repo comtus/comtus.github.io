@@ -4,7 +4,7 @@ icon: fas fa-info-circle
 order: 5
 ---
 
-- 👋 Hi, I’m @comtus
+- 👋 Hi, I’m @comtus. I am a software solution architect
 - 👀 I’m interested in Full Stack Web Development, DevOps, Linux and AWS
 - 🌱 I’m currently learning HTMX
 

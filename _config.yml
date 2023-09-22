@@ -21,9 +21,9 @@ timezone: Asia/Calcutta
 # jekyll-seo-tag settings › https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
 # ↓ --------------------------
 
-title: My Home Page # the main title
+title: Suresh Krishnaswamy # the main title
 
-tagline: Welcome to my Personal Site # it will display as the sub-title
+tagline: sureshkrishnaswamy@outlook.com # it will display as the sub-title
 
 description: >- # used by seo meta and the atom feed
   A minimal, responsive, and powerful Jekyll theme for presenting professional writing.
@@ -41,7 +41,7 @@ social:
   # Change to your full name.
   # It will be displayed as the default author of the posts and the copyright owner in the Footer
   name: Suresh Kumar Krishnaswamy
-  email: comtus@comtus.tk # change to your email address
+  email: sureshkrishnaswamy@outlook.com # change to your email address
   links:
     # The first element serves as the copyright owner's link
     - https://twitter.com/comtus # change to your twitter homepage
