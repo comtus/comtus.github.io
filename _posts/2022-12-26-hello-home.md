@@ -7,6 +7,6 @@ categories: [home, hello]
 tags: [home, hello, intro, about]
 ---
 
-<h1> Welcome to my posts </h>
+## Welcome to my posts
 
 More posts to follow...

@@ -8,8 +8,8 @@ order: 1
 
 ## Threads Clone
 
-[![Threads Application Clone](/assets/images/threads_app_thumbnail.png)](https://threads-app-pink.vercel.app/?target=_blank)
+[![Threads Application Clone](/assets/images/threads_app_thumbnail.png)](https://threads-app-pink.vercel.app)
 
 ## AI Summarizer
 
-[![Threads Application Clone](/assets/images/AI_Summarizer_App_thumbnail.PNG)](/)
+[<img src="/assets/images/AI_Summarizer_App_thumbnail.PNG" width="70%" height="70%">](https://ai-summarizer.vercel.app)
