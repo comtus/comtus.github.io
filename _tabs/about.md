@@ -4,4 +4,6 @@ icon: fas fa-info-circle
 order: 5
 ---
 
-<h1>About Me</h1>
+- 👋 Hi, I’m @comtus
+- 👀 I’m interested in Full Stack Web Development, DevOps, Linux and AWS
+- 🌱 I’m currently learning HTMX
