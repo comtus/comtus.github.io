@@ -1,6 +1,6 @@
 ---
 title: Portfolio
-icon: fas fa-stream
+icon: fas fa-portrait
 order: 1
 ---
 
