@@ -13,3 +13,7 @@ order: 1
 ## AI Summarizer
 
 [<img src="/assets/images/AI_Summarizer_App_thumbnail.PNG" width="70%" height="70%">](https://ai-summarizer.vercel.app)
+
+## Project Showcase
+
+[<img src="/assets/images/Project_Showcase_thumbnail.PNG" width="70%" height="70%">](https://project-showcase-eight.vercel.app/)
