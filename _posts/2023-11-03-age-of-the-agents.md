@@ -10,3 +10,5 @@ tags: [ML, AI, LLM, GPT, tech, future-talk, autonnomy, agents, agi]
 ## Future Talk #2 - Age of the Agents
 
 ### There will be Autonomous Agents, billions of them - before we get to AGI
+
+... to be updated
