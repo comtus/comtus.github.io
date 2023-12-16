@@ -37,6 +37,8 @@ Here are is the list of technologies/frameworks/libraries I have worked with:
     <img src="/assets/images/thunbmails/golang-icon.png" width=70px height=90px title="GO Lang">
     <img src="/assets/images/thunbmails/aws-icon.png" width=70px height=90px title="AWS">
     <img src="/assets/images/thunbmails/Mulesoft-thumbnail.png" width=70px height=90px title="MuleSoft">
+    <img src="/assets/images/thunbmails/sanity.webp" width=70px height=90px title="Sanity CMS">
+    <img src="/assets/images/thunbmails/Hygraph.png" width=70px height=90px title="Hygraph CMS">
     <img src="/assets/images/thunbmails/OpenAI.png" width=70px height=90px title="OpenAI">
     <img src="/assets/images/thunbmails/Pinecone-logo.jpg" width=70px height=90px title="Pinecode Vector DB">
 </div>
