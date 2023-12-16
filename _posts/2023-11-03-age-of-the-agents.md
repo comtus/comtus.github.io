@@ -16,6 +16,7 @@ We are already starting to see this trend in GPTs and Co-Pilots. When we extrapo
 I am a student, father, husband, employee, consumer and producer. I will be represented by these entities as intelligent agents to other intelligent agents, some representing other humans and some entirely AI. We will deligate our tasks to these agents and we will watch as they go about living our lives in this virtual world. We will watch them succeed and fail in some cases. We will be there to coach and train these agents to maximize our happiness and reduce suffering. These agents will help improve the lives of the billions who will inherit this world.
 
 I will try to explain this concept using the following diagram.
-![Humans as Avatars with Agents](/assets/images/Human_Avatars_with-Agents.png)
+
+<img src="/assets/images/Human_Avatars_with-Agents.png" alt="Human_Avatars_with-Agents" style="width:350px;height:auto;">
 
 ... to be updated
