@@ -24,6 +24,7 @@ Here are is the list of technologies/frameworks/libraries I have worked with:
     <img src="/assets/images/thunbmails/vite-icon.png" width=70px height=90px title="Vite JS">
     <img src="/assets/images/thunbmails/graphql-icon.png" width=70px height=90px title="GraphQL">
     <img src="/assets/images/thunbmails/prisma-icon.png" width=70px height=90px title="Prisma ORM" >
+    <img src="/assets/images/thunbmails/trpc-logo.png" width=70px height=90px title="TypeScript RPC">
     <img src="/assets/images/thunbmails/clerk-icon.webp" width=70px height=90px title="Clerk Authz/n">
     <img src="/assets/images/thunbmails/Kinde.png" width=70px height=90px title="Kinde Auth">
      <img src="/assets/images/thunbmails/mongodb-icon.png" width=60px height=55px title="MongoDB">
