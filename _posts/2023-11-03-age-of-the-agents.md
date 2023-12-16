@@ -17,6 +17,6 @@ I am a student, father, husband, employee, consumer and producer. I will be repr
 
 I will try to explain this concept using the following diagram.
 
-<img src="/assets/images/Human_Avatars_with-Agents.png" alt="Human_Avatars_with-Agents" style="width:350px;height:auto;">
+<img src="/assets/images/Human_Avatars_with-Agents.png" alt="Human_Avatars_with-Agents" style="width:350px;height:auto;item-align:center; margin-left: 10px">
 
 ... to be updated

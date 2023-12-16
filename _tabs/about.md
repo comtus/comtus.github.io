@@ -25,12 +25,17 @@ Here are is the list of technologies/frameworks/libraries I have worked with:
     <img src="/assets/images/thunbmails/graphql-icon.png" width=70px height=90px title="GraphQL">
     <img src="/assets/images/thunbmails/prisma-icon.png" width=70px height=90px title="Prisma ORM" >
     <img src="/assets/images/thunbmails/clerk-icon.webp" width=70px height=90px title="Clerk Authz/n">
+    <img src="/assets/images/thunbmails/Kinde.png" width=70px height=90px title="Kinde Auth">
      <img src="/assets/images/thunbmails/mongodb-icon.png" width=60px height=55px title="MongoDB">
     <img src="/assets/images/thunbmails/planetscale-icon.png" width=70px height=90px title="MySQL">
     <img src="/assets/images/thunbmails/redis-icon.png" width=70px height=90px title="REDIS">
     <img src="/assets/images/thunbmails/docker-icon.png" width=70px height=90px title="Docker">
     <img src="/assets/images/thunbmails/k8s-icon.png" width=70px height=90px title="Kubernetes">
     <img src="/assets/images/thunbmails/spring-boot-logo.png" width=70px height=90px title="Spring Boot">
+    <img src="/assets/images/thunbmails/quarkus-logo.png" width=70px height=90px title="Quarkus">
     <img src="/assets/images/thunbmails/golang-icon.png" width=70px height=90px title="GO Lang">
     <img src="/assets/images/thunbmails/aws-icon.png" width=70px height=90px title="AWS">
+    <img src="/assets/images/thunbmails/Mulesoft-thumbnail.png" width=70px height=90px title="MuleSoft">
+    <img src="/assets/images/thunbmails/OpenAI.png" width=70px height=90px title="OpenAI">
+    <img src="/assets/images/thunbmails/Pinecone-logo.jpg" width=70px height=90px title="Pinecode Vector DB">
 </div>
