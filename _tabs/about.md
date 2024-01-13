@@ -6,7 +6,7 @@ order: 5
 
 - 👋 Hi, I’m @comtus. I am a software solution architect
 - 👀 I’m interested in Full Stack Web Development, DevOps, Linux and AWS
-- 🌱 I’m currently learning HTMX
+- 🌱 I’m currently learning Rust
 
 Here are is the list of technologies/frameworks/libraries I have worked with:
 
