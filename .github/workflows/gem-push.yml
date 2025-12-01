@@ -9,6 +9,8 @@ on:
 jobs:
   build:
     name: Build + Publish
+    # Only run this job if a gemspec exists; otherwise skip (this repo is a site, not a gem).
+    if: ${{ hashFiles('*.gemspec') != '' }}
     runs-on: ubuntu-22.04
     permissions:
       contents: read
