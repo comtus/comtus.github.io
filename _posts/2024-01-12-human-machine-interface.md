@@ -15,7 +15,7 @@ The Information era started with the invention of the "Computer" in the 1950s an
 
 Still we can achieve more with current (transistor based) computers especially with the help of AI. In fact AI is going to give us better tools to invent future technologies: it will help us advance in material science and nano technology which will inturn enable us to get to Photonic and Quantum computers faster.
 
-There are still some basic issue we need to deal with before we can move forward, especially with Huamn interfaces to these vastly capable machines. If we still rely on current (text or speach based) interfaces, we will not be able to use the complete potential of these next generation computers. Humans need to step up to meet the needs of Machines as we become the bottleneck.
+There are still some basic issue we need to deal with before we can move forward, especially with Human interfaces to these vastly capable machines. If we still rely on current (text or speach based) interfaces, we will not be able to use the complete potential of these next generation computers. Humans need to step up to meet the needs of Machines as we become the bottleneck.
 
 I think we need to think and speak at the speed of light literally if we need to make any progress...
 
